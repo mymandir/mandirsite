@@ -1,2 +1,0 @@
-# mandirsite
-Mandir Website
